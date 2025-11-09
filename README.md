@@ -1,2 +1,59 @@
-# webpages
-e 115 html assignment 
+<!DOCTYPE html>
+<!-- 
+-Name: George Robertson
+-UnityID: gsrober3
+-Date: 11/08/2025
+-Assignment: Gudied Lab 4
+-Description: Guided Lab Assignment, about me webpage
+-->
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <title>About Beck Waldbauer</title>
+        <link href="webpagesGl.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body style="background-color: #008473;">
+    <!--Here is our welcom message -->
+<header>
+    <h2>Welcome to my about me page!</h2>
+</header>
+
+<hr />
+
+<!-- A photo I like -->
+ <img src="WIN_20251108_16_52_37_Pro.jpg" alt="Screentshot 2025-11-08 165507.png" id="photo-resize">
+
+ <!-- Favorite path around campus -->
+
+    <p>Hello my name is George Robertson, and my <em>favorite path</em> around campus consists of walking from university towers to <strong>Riddick hall</strong>. You pass by the brickyard as well as the back of the library which comes with efficency if food is needed as well as you are likley to see soemone you know!</p>  
+    
+    <p>
+        C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub> is my favorite <del>element</del> <ins>chemical</ins> formula. E =mc <sup>2</sup> is my favorite equation. 
+    </p>
+    
+   <br /> 
+   <br />
+
+   <h4>A list of my favorite things</h4>
+
+   <ul>
+    <li>Basketball</li>
+    <li>Surfing</li>
+    <li>Haning out with friends</li>
+    <li>Watching Sports</li>
+   </ul>
+
+   <br>
+
+<!-- Table -->
+
+   <table class="table-border">
+    <tr><th>Name</th> <th>Characteristics</th> </tr>
+    <tr><td> Mike Shindoa</td> <td>Concentrated power of will</td> </tr>
+    <tr> <td>Chester Bennington</td> <td>Tremendous durribility</td> </tr>
+   </table>
+
+<a href="https://wolfware.ncsu.edu" target="blank">Moodle</a>
+
+    </body>
+</html
